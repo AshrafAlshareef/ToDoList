@@ -10,7 +10,7 @@ This is a ToDo list prorgam. At the beginning, I tried to follow this video on y
 
 ## Implementation 
 To run the program the following instructions are required:
-- Frontend side (1st terminal)
+- Client side (1st terminal)
 ```
 cd todolist
 npm install
@@ -18,7 +18,7 @@ npm run dev
 ```
 
 
-- Backend side (2nd terminal)
+- Server side (2nd terminal)
 ```
 cd Server
 npm install
